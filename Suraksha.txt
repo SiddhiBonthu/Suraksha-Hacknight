@@ -3,3 +3,5 @@ Data sets are derived from hardware (DHT11) and software polygon generated (Agro
 The data recieved from hardware is sent to Crust networks through ESP8266 WiFi module via MQTT server and Node-Red.
 
 Data from the software is transfered to Crust networks directly with API calling.
+
+The provided code is half done. Work is in progress.
