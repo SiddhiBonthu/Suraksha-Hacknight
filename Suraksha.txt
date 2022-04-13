@@ -1,0 +1,5 @@
+Data sets are derived from hardware (DHT11) and software polygon generated (AgroMonitoring) soil moisture.
+
+The data recieved from hardware is sent to Crust networks through ESP8266 WiFi module via MQTT server and Node-Red.
+
+Data from the software is transfered to Crust networks directly with API calling.
